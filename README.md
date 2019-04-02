@@ -1,7 +1,7 @@
 ﻿# ForecastScore         
 預測學生是否被列為需要高關懷對象 ★ Supervised learning by StarCoral
 ### What is a highly concerned object?
->> 被當學分/總修學分 >= 1/3
+> 被當學分/總修學分 >= 1/3
 
 ### Our Goal
 + Determine if the student is a high-care object
